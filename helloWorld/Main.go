@@ -1,9 +1,9 @@
 // compile and run:
-// 		$ go run hello-world.go
+// 		$ go run main.go
 // build compiled executable
-// 		$ go build hello-world.go
+// 		$ go build main.go
 // run compiled executable:
-//		$ ./hello-world
+//		$ ./main
 package main
 
 import "fmt"
