@@ -18,7 +18,7 @@ source: <a href="https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1067s&ab_channel=
 15. <a href="https://www.youtube.com/watch?v=YS4e4q9oBaU&t=21910s">Channels</a>
 
 [Introduction and Resources]
-RESOURCES:
+<br>RESOURCES:
 - <a href="https://gobyexample.com/">Go by Example</a>
 - <a href="https://golang.org">golang.org</a>
     - <a href="https://golang.org/doc/effective_go.html">Effective Go</a>
